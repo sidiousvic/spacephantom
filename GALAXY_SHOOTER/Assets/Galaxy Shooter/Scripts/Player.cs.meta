@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a3064d4acc1a4562841e85e0745ffc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {instanceID: 0}
+  - _tripleShotPrefab: {instanceID: 0}
+  - laserCenter: {instanceID: 0}
+  - laserLeft: {instanceID: 0}
+  - laserRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
